@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAnalyzer_HW", "WordAnalyzer_HW\WordAnalyzer_HW.csproj", "{C59E434D-B497-4D91-8CCF-029795CA8D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59E434D-B497-4D91-8CCF-029795CA8D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59E434D-B497-4D91-8CCF-029795CA8D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59E434D-B497-4D91-8CCF-029795CA8D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59E434D-B497-4D91-8CCF-029795CA8D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8FB0A14-6808-48BF-A359-09CE18290765}
+	EndGlobalSection
+EndGlobal
